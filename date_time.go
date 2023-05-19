@@ -1,4 +1,4 @@
-package scalar
+package gqlscalar
 
 import (
 	"fmt"
